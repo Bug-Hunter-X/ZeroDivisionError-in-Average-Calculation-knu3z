@@ -1,0 +1,2 @@
+# Python Average Calculation Bug
+This repository demonstrates a common error in Python when calculating averages: the `ZeroDivisionError` that occurs when dividing by zero if the input list is empty.  The `bug.py` file shows the initial flawed code that causes this error. The solution, in `bugSolution.py`, demonstrates how to handle the empty list case correctly.
